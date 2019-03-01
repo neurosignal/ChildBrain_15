@@ -1,2 +1,2 @@
 # ChildBrain_15
-Work done under ChildBrain ITN
+The repository will contain the development work done by ESR-15 under ChildBrain ITN, after work gets published.
